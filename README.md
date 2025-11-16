@@ -18,18 +18,12 @@ Junior DevOps & SysAdmin focused on systems administration, infrastructure, opti
 
 <p align="left">
 
-  <!-- WEBSITE (GLOBE ICON) -->
-  <a href="https://aimar.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/web.svg"
-    width="32" height="32" alt="Website" title="Website" />
-  </a>
-
   <!-- GITHUB -->
   <a href="https://www.github.com/aimarmndz" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
 
@@ -38,7 +32,7 @@ Junior DevOps & SysAdmin focused on systems administration, infrastructure, opti
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
   </a>
 
@@ -47,8 +41,14 @@ Junior DevOps & SysAdmin focused on systems administration, infrastructure, opti
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
     </picture>
+  </a>
+
+  <!-- RSS NARANJA EXACTO (AIMAR.DEV) -->
+  <a href="https://aimar.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg"
+         width="32" height="32" alt="Website" title="Website" />
   </a>
 
 </p>
@@ -91,8 +91,8 @@ Junior DevOps & SysAdmin focused on systems administration, infrastructure, opti
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;">
-<a href="https://www.ko-fi.com/aimarmndz"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-</li>
-</ul>
+<div style="margin-top: 10px;">
+  <a href="https://www.ko-fi.com/aimarmndz">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
+  </a>
+</div>
