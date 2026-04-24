@@ -1,98 +1,173 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aimar Méndez
-=====================================================================================================================================
+<div align="center">
 
-Sysadmin & Devops junior
-------------------------
+<a href="https://aimar.dev">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Aimar+M%C3%A9ndez;Junior+DevOps+%26+SysAdmin;Infrastructure+%7C+Automation+%7C+Cloud;Building+reliable+systems+from+the+Canary+Islands" alt="Aimar Méndez — Junior DevOps & SysAdmin" />
+</a>
 
-Junior DevOps & SysAdmin focused on systems administration, infrastructure, optimization, and database management. I enjoy working with modern technologies, improving environments, and learning new tools to enhance system performance and reliability.
+<br />
 
-* 🌍 I'm based in Canary Islands, Spain
-* 🖥️ See my portfolio at [aimar.dev](http://aimar.dev)
-* ✉️ You can contact me at [contact@aimar.dev](mailto:contact@aimar.dev)
-* 🚀 I'm currently working on [Arenna Labs](http://www.arennalabs.com/)
-* 🧠 I'm currently learning Docker & DevOps practices
+<a href="https://aimar.dev">
+  <img src="https://img.shields.io/badge/Portfolio-aimar.dev-27272A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/aimarmndz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:contact@aimar.dev">
+  <img src="https://img.shields.io/badge/Email-contact%40aimar.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://discord.com/users/aimarmndz" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 
----
+<br />
 
-### Socials
+<img src="https://komarev.com/ghpvc/?username=aimarmndz&style=for-the-badge&color=27272A&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/aimarmndz?tab=followers">
+  <img src="https://img.shields.io/github/followers/aimarmndz?style=for-the-badge&color=27272A&labelColor=27272A&logo=github&label=FOLLOWERS" alt="Followers" />
+</a>
 
-<p align="left">
-
-  <!-- GITHUB -->
-  <a href="https://www.github.com/aimarmndz" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-
-  <!-- LINKEDIN -->
-  <a href="https://www.linkedin.com/in/aimarmndz" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-
-  <!-- DISCORD -->
-  <a href="https://discord.com/users/aimarmndz" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
-  </a>
-
-  <!-- RSS NARANJA EXACTO (AIMAR.DEV) -->
-  <a href="https://aimar.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg"
-         width="32" height="32" alt="Website" title="Website" />
-  </a>
-
-</p>
+</div>
 
 ---
 
-### Badges
+## 🧠 About Me
 
-<b>My GitHub Stats</b>
+```yaml
+name: Aimar Méndez
+role: Junior DevOps & SysAdmin
+location: Canary Islands, Spain 🇪🇸
+company: Arenna Labs
+portfolio: https://aimar.dev
+email: contact@aimar.dev
+focus:
+  - systems administration
+  - infrastructure & automation
+  - database management
+  - performance & reliability
+currently_learning:
+  - Docker & container orchestration
+  - DevOps practices & CI/CD
+  - Cloud-native patterns
+motto: "Automate everything that breaks more than once."
+```
 
-<a href="http://www.github.com/aimarmndz"><img src="https://github-readme-stats.vercel.app/api?username=aimarmndz&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="aimarmndz's GitHub stats" /></a>
+I'm a **Junior DevOps & SysAdmin** who enjoys building reliable systems, automating repetitive work, and squeezing every drop of performance out of the stack. I split my time between **infrastructure, databases, and the ever-growing DevOps toolbelt** — always curious, always shipping.
 
----
-
-### Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" /></a>
-</p>
+- 🚀 Currently engineering at [**Arenna Labs**](http://www.arennalabs.com/)
+- 🌱 Diving deeper into **Docker**, **Kubernetes**, and modern DevOps workflows
+- 💬 Ask me about **Linux, databases, automation, or homelab stuff**
+- ⚡ Fun fact: I believe a good `README` is worth a thousand meetings
 
 ---
 
-### Support Me
+## 🛠️ Tech Stack
 
-<div style="margin-top: 10px;">
-  <a href="https://www.ko-fi.com/aimarmndz">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" />
-  </a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+  </td>
+  <td valign="top" width="50%">
+
+### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### ⚛️ Frameworks & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aimarmndz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a" alt="Aimar's GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=aimarmndz&hide_border=true&background=27272a&stroke=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=a1a1aa" alt="GitHub streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimarmndz&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=27272a&langs_count=8" alt="Top languages" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=aimarmndz&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aimarmndz&theme=react-dark&bg_color=27272a&hide_border=true&line=ffffff&color=ffffff&point=a1a1aa&area=true&area_color=a1a1aa" alt="Contribution graph" width="100%" />
+
+</div>
+
+### 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimarmndz/aimarmndz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimarmndz/aimarmndz/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/aimarmndz/aimarmndz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+If you want to chat about **infrastructure, automation, or a side project** — my inbox is open.
+
+<a href="https://aimar.dev">
+  <img src="https://img.shields.io/badge/Visit_my_portfolio-aimar.dev-27272A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:contact@aimar.dev">
+  <img src="https://img.shields.io/badge/Get_in_touch-contact%40aimar.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
+### ☕ Support My Work
+
+If you like what I do, you can support my caffeine-powered coding sessions.
+
+<a href="https://www.ko-fi.com/aimarmndz" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="170" alt="Support me on Ko-fi" />
+</a>
+
+<br /><br />
+
+<sub>⭐ From <a href="https://github.com/aimarmndz">aimarmndz</a> · Built with care in the Canary Islands 🌊</sub>
+
 </div>
