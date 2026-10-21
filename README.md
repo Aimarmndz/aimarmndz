@@ -10,12 +10,10 @@
 
 <br /><br />
 
-<a href="https://aimar.dev"><img src="https://img.shields.io/badge/aimar.dev-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: aimar.dev" /></a>
-<a href="https://www.linkedin.com/in/aimarmndz"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcng9IjMiLz48cGF0aCBkPSJNNyAxMHY3TTcgN3YuMDFNMTEgMTd2LTdNMTEgMTNhMyAzIDAgMCAxIDYgMHY0Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-<a href="mailto:contact@aimar.dev"><img src="https://img.shields.io/badge/contact%40aimar.dev-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: contact@aimar.dev" /></a>
-<a href="https://discord.com/users/aimarmndz"><img src="https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=aimarmndz&label=profile+views&color=238636&style=flat" alt="Profile views" />
+<a href="https://aimar.dev"><picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/portfolio-light.svg" /><img src="assets/badges/portfolio-dark.svg" alt="Portfolio: aimar.dev" /></picture></a>
+<a href="https://www.linkedin.com/in/aimarmndz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/linkedin-light.svg" /><img src="assets/badges/linkedin-dark.svg" alt="LinkedIn" /></picture></a>
+<a href="mailto:contact@aimar.dev"><picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/email-light.svg" /><img src="assets/badges/email-dark.svg" alt="Email: contact@aimar.dev" /></picture></a>
+<a href="https://discord.com/users/aimarmndz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/discord-light.svg" /><img src="assets/badges/discord-dark.svg" alt="Discord" /></picture></a>
 
 </div>
 
@@ -48,36 +46,14 @@ motto: "Automate everything that breaks more than once."
 
 ## ~/stack
 
-<table>
-  <tr>
-    <td><code>infra &amp; cloud</code></td>
-    <td><img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Google_Cloud-21262d?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/macOS-21262d?style=flat-square&logo=apple&logoColor=white" alt="macOS" /></td>
-  </tr>
-  <tr>
-    <td><code>databases</code></td>
-    <td><img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
-  </tr>
-  <tr>
-    <td><code>languages</code></td>
-    <td><img src="https://img.shields.io/badge/Bash-21262d?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/C++-21262d?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Lua-21262d?style=flat-square&logo=lua&logoColor=white" alt="Lua" /></td>
-  </tr>
-  <tr>
-    <td><code>frameworks &amp; tools</code></td>
-    <td><img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/shadcn%2Fui-21262d?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-21262d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xNiAxOCA2LTYtNi02TTggNmwtNiA2IDYgNiIvPjwvc3ZnPg==" alt="VS Code" /></td>
-  </tr>
-</table>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/stack-infra-light.svg" /><img src="assets/badges/stack-infra-dark.svg" alt="infra & cloud: Docker, Kubernetes, Google Cloud, Linux, macOS" /></picture><br />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/stack-databases-light.svg" /><img src="assets/badges/stack-databases-dark.svg" alt="databases: MySQL, PostgreSQL" /></picture><br />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/stack-languages-light.svg" /><img src="assets/badges/stack-languages-dark.svg" alt="languages: Bash, Python, TypeScript, JavaScript, C++, Lua" /></picture><br />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/stack-tools-light.svg" /><img src="assets/badges/stack-tools-dark.svg" alt="frameworks & tools: Node.js, Next.js, React, FastAPI, Tailwind, shadcn/ui, Git, VS Code" /></picture>
 
 ## ~/activity
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aimarmndz&background=0d1117&border=30363d&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=9198a1&dates=9198a1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aimarmndz&background=ffffff&border=d1d9e0&stroke=d1d9e0&ring=1a7f37&fire=1a7f37&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=1a7f37&sideLabels=59636e&dates=59636e" />
-  <img src="https://streak-stats.demolab.com?user=aimarmndz&background=0d1117&border=30363d&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=9198a1&dates=9198a1" alt="GitHub streak" />
-</picture>
-
-<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimarmndz/aimarmndz/output/github-contribution-grid-snake-dark.svg" />
@@ -93,7 +69,7 @@ motto: "Automate everything that breaks more than once."
 
 Want to talk **infrastructure, automation or a side project**? My inbox is open: [contact@aimar.dev](mailto:contact@aimar.dev)
 
-<a href="https://www.ko-fi.com/aimarmndz"><img src="https://img.shields.io/badge/Support_me_on_Ko--fi-e6edf3?style=for-the-badge&logo=kofi&logoColor=0d1117" alt="Support me on Ko-fi" /></a>
+<a href="https://www.ko-fi.com/aimarmndz"><picture><source media="(prefers-color-scheme: light)" srcset="assets/badges/kofi-light.svg" /><img src="assets/badges/kofi-dark.svg" alt="Support me on Ko-fi" /></picture></a>
 
 <sub>Built with care in the Canary Islands</sub>
 

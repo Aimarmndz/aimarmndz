@@ -1,5 +1,40 @@
 # Decisiones
 
+## 2026-10-21 · Badges estáticos sin servicios externos
+
+**Contexto.** Con el perfil ya publicado, los badges de shields.io y el
+contador de komarev fallaban de forma intermitente: GitHub sirve las
+imágenes externas a través de su proxy (camo) y algunas cargas se cortaban,
+dejando iconos rotos (Discord en dos de tres recargas). El usuario pidió no
+depender de servicios externos. Además, el perfil estaba marcado como
+privado y la tarjeta de racha y la serpiente salían a cero; se ha vuelto a
+poner público desde los ajustes de GitHub.
+
+**Decisión.**
+- Todos los badges (contacto, stack y Ko-fi) son SVG versionados en
+  `assets/badges/`, con variante clara y oscura servidas con `<picture>`.
+- Se generan con `scripts/build_badges.py` (solo librería estándar):
+  cambiar un badge es editar sus listas y volver a ejecutarlo.
+- Texto monoespaciado con `textLength`: el ancho se calcula sin métricas de
+  fuente y se respeta aunque el visitante tenga otra monoespaciada.
+- Iconos de trazo propios en vez de logos de marca: evitan depender de
+  Simple Icons, que ya retiró LinkedIn y VS Code.
+- Fuera el contador de visitas (komarev) y la tarjeta de racha
+  (streak-stats): no se pueden servir en estático. Queda la serpiente, que
+  genera el workflow propio y se sirve desde el propio GitHub.
+
+**Alternativas descartadas.**
+- Mantener shields.io con reintentos: el corte lo hace el proxy de GitHub,
+  no se controla desde el README.
+- Un SVG por chip del stack: 21 archivos por tema; una fila por categoría
+  basta y se reduce sola en pantallas estrechas.
+
+**Consecuencias.**
+- Los SVG generados no se editan a mano: se cambia el script y se
+  regenera.
+- El perfil no muestra visitas ni racha; el gráfico de contribuciones de
+  GitHub ya aparece justo debajo del README.
+
 ## 2026-10-21 · Rediseño del perfil con estética de terminal
 
 **Contexto.** El README del perfil acumulaba badges de colores distintos,
