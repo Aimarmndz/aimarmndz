@@ -11,12 +11,11 @@
 <br /><br />
 
 <a href="https://aimar.dev"><img src="https://img.shields.io/badge/aimar.dev-21262d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: aimar.dev" /></a>
-<a href="https://www.linkedin.com/in/aimarmndz"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/aimarmndz"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjIiIHk9IjIiIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgcng9IjMiLz48cGF0aCBkPSJNNyAxMHY3TTcgN3YuMDFNMTEgMTd2LTdNMTEgMTNhMyAzIDAgMCAxIDYgMHY0Ii8+PC9zdmc+" alt="LinkedIn" /></a>
 <a href="mailto:contact@aimar.dev"><img src="https://img.shields.io/badge/contact%40aimar.dev-21262d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: contact@aimar.dev" /></a>
 <a href="https://discord.com/users/aimarmndz"><img src="https://img.shields.io/badge/Discord-21262d?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=aimarmndz&label=profile+views&color=238636&style=flat" alt="Profile views" />
-<a href="https://github.com/aimarmndz?tab=followers"><img src="https://img.shields.io/github/followers/aimarmndz?style=flat&label=followers&color=238636" alt="Followers" /></a>
 
 </div>
 
@@ -45,16 +44,28 @@ motto: "Automate everything that breaks more than once."
 | :-- | :-- | :-- |
 | [**scan2nas**](https://github.com/Aimarmndz/scan2nas) | Preset-based document scanning for Epson scanners on Linux, straight to a PDF on your NAS. CLI + Qt GUI. | Python |
 | [**orgtable**](https://github.com/Aimarmndz/orgtable) | Free, open-source Kanban boards for people and companies, with organizations, roles and real time. A self-hostable Trello alternative. | TypeScript |
-| [**vibe-gambling**](https://github.com/Aimarmndz/vibe-gambling) | Every prompt is a spin: a PS1-style roulette for Claude Code. Fake coins, real dopamine. | TypeScript |
+| [**vibe&#8209;gambling**](https://github.com/Aimarmndz/vibe-gambling) | Every prompt is a spin: a PS1-style roulette for Claude Code. Fake coins, real dopamine. | TypeScript |
 
 ## ~/stack
 
-| | |
-| :-- | :-- |
-| `infra & cloud` | ![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-21262d?style=flat-square&logo=googlecloud&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-21262d?style=flat-square&logo=apple&logoColor=white) |
-| `databases` | ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white) |
-| `languages` | ![Bash](https://img.shields.io/badge/Bash-21262d?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C++-21262d?style=flat-square&logo=cplusplus&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-21262d?style=flat-square&logo=lua&logoColor=white) |
-| `frameworks & tools` | ![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-21262d?style=flat-square&logo=shadcnui&logoColor=white) ![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-21262d?style=flat-square&logo=visualstudiocode&logoColor=white) |
+<table>
+  <tr>
+    <td><code>infra &amp; cloud</code></td>
+    <td><img src="https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-21262d?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Google_Cloud-21262d?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/macOS-21262d?style=flat-square&logo=apple&logoColor=white" alt="macOS" /></td>
+  </tr>
+  <tr>
+    <td><code>databases</code></td>
+    <td><img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></td>
+  </tr>
+  <tr>
+    <td><code>languages</code></td>
+    <td><img src="https://img.shields.io/badge/Bash-21262d?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/C++-21262d?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Lua-21262d?style=flat-square&logo=lua&logoColor=white" alt="Lua" /></td>
+  </tr>
+  <tr>
+    <td><code>frameworks &amp; tools</code></td>
+    <td><img src="https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-21262d?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Tailwind-21262d?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/shadcn%2Fui-21262d?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /> <img src="https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-21262d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xNiAxOCA2LTYtNi02TTggNmwtNiA2IDYgNiIvPjwvc3ZnPg==" alt="VS Code" /></td>
+  </tr>
+</table>
 
 ## ~/activity
 

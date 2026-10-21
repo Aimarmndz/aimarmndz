@@ -19,9 +19,14 @@ rango C porque la instancia pública no cuenta repos privados.
 - Los SVG usan la fuente monoespaciada del sistema: GitHub los sirve como
   imagen y no cargan fuentes externas. El cursor parpadea con CSS y se
   detiene con `prefers-reduced-motion`.
-- Badges uniformes en `#21262d` con logo blanco. Visitas y seguidores en
-  `#238636`, que con texto blanco sí pasa contraste (komarev no admite
-  color de etiqueta).
+- Badges uniformes en `#21262d` con logo blanco. Visitas en `#238636`, que
+  con texto blanco sí pasa contraste (komarev no admite color de etiqueta).
+- Simple Icons ya no incluye los logos de LinkedIn ni de VS Code: esos dos
+  badges llevan un icono de trazo propio incrustado en base64.
+- Fuera el badge de seguidores: shields devuelve 0 (hay 10) y GitHub ya los
+  muestra en la barra lateral.
+- La tabla del stack va en HTML: en Markdown una tabla sin cabecera pinta
+  una fila vacía.
 - Fuera las tarjetas de stats, top languages, trofeos y gráfica de
   actividad. Se mantiene la serpiente (workflow propio) y se añade la
   tarjeta de racha en `streak-stats.demolab.com`, el dominio actual del
